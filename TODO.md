@@ -1,11 +1,9 @@
 * BACKLOG:
-    
 
-    * FUNCIONALIDADE 3;
     * FUNCIONALIDADE 4;
 
 * EM ANDAMENTO:
-    
+    * FUNCIONALIDADE 3;
     
 
 * FINALIZADO:
