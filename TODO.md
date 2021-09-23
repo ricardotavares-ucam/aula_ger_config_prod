@@ -1,8 +1,9 @@
 * BACKLOG:
 
-    * FUNCIONALIDADE 4;
 
 * EM ANDAMENTO:
+
+    * FUNCIONALIDADE 4;
     
     
 
