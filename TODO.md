@@ -3,7 +3,7 @@
 
 * EM ANDAMENTO:
 
-    * FUNCIONALIDADE 4;
+    
     
     
 
@@ -11,3 +11,4 @@
     * FUNCIONALIDADE 1;
     * FUNCIONALIDADE 2;
     * FUNCIONALIDADE 3;
+    * FUNCIONALIDADE 4;
